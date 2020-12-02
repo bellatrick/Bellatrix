@@ -1,0 +1,36 @@
+h1{font-size: 150%;
+color: black;}
+h4{text-align: center;
+font-weight: 400%;
+color: black;
+background-color: gray;}
+.row {
+    margin-bottom: 15px;
+  }
+  .row > div {
+    border: 10px solid white;
+    background-color: gray;
+    height: 500px;
+    padding: 10px;
+  } 
+  #nav-header{background-color: grey;
+border: 1px solid black;}
+  #nav-list{
+      margin-top:10px;
+    background-color:white;
+    text-align: center;
+    border: 1px solid black;
+  }
+  #nav-list a:hover {
+    background: grey;
+  }
+  #nav-list a {
+border: 1px solid black;
+color: black;}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid black;
+  }
+  .navbar-header button.navbar-toggle {
+    clear: both; }
+    .navbar-header .navbar-brand {color: black;}
+    .navbar-header .navbar-brand:hover{color: white;}
